@@ -1,8 +1,6 @@
 import React from 'react';
 import { Typography, Button, Form, message, Input, Icon } from 'antd';
 import Dropzone from 'react-dropzone';
-// import Title from 'antd/lib/skeleton/Title';
-// import TextArea from 'antd/lib/input/TextArea';
 
 const { TextArea } = Input;
 const { Title } = Typography;
